@@ -14,6 +14,11 @@
 - https://github.com/claynimmo/3D-Platformer-Package-for-Unity
 - https://github.com/claynimmo/GreenBird-Simulator-Source-Code
 - https://github.com/claynimmo/Source-Code-for-Atomic
+- https://github.com/claynimmo/Analogue-to-Digital-Voice-Recorder
+- https://github.com/claynimmo/AI-prompt-mindmapping-tool
+- https://github.com/claynimmo/Network-Shared-USB-with-PHP
+- https://github.com/claynimmo/CAB302-Assessment
+- https://github.com/claynimmo/Basic-Image-Processing-for-Game-Assets
 
 ## Game Development
 
