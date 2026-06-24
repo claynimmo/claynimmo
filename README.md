@@ -2,6 +2,7 @@
 
 ## Master List - links to all projects without context
 - https://nimclay.itch.io/rebirth-of-the-forsaken
+- https://nimclay.itch.io/foglights
 - https://nimclay.itch.io/achromatized
 - https://nimclay.itch.io/greenbird-simulator
 - https://nimclay.itch.io/midnight-bowling
@@ -40,7 +41,9 @@
 I have published several games on itch.io using the Unity engine with C#, where the source code is mostly private.
 I have published:
 
-**Rebirth of the Forsaken:** https://nimclay.itch.io/rebirth-of-the-forsaken - My latest and highest quality game, that represents my skills the best. It is a sequal to Greenbird Simulator, where it has improved visuals, level design, mechanics, and the addition of boss fights and a proper combat system. I have supported this game with several post launch updates to improve the game with new features and bug fixes, based on user feedback. The project is too large to make public, but I have published sections of the code into importable packages for both the UI (https://github.com/claynimmo/Custom-UI-Package-for-Unity-Engine) and the character controls (https://github.com/claynimmo/3D-Platformer-Package-for-Unity)
+**Rebirth of the Forsaken:** https://nimclay.itch.io/rebirth-of-the-forsaken - My highest quality game, that represents my skills the best. It is a sequal to Greenbird Simulator, where it has improved visuals, level design, mechanics, and the addition of boss fights and a proper combat system. I have supported this game with several post launch updates to improve the game with new features and bug fixes, based on user feedback. The project is too large to make public, but I have published sections of the code into importable packages for both the UI (https://github.com/claynimmo/Custom-UI-Package-for-Unity-Engine) and the character controls (https://github.com/claynimmo/3D-Platformer-Package-for-Unity)
+
+**FogLights:** https://nimclay.itch.io/foglights - A third person atmospheric horror experience targeting megalophobia, making use of volumetric fog lighting to silhouette large monsters. The game is made on top of the code for Subatomic, making use of the fully 3D character movement. This game was made with the purpose to expand my skills storytelling and game progression, while having a clear objective and an ending.
 
 **Achromatized:** https://nimclay.itch.io/achromatized - a third person shooter where you steal the colour from randomly spawned rooms (not procedurally generated)
 
