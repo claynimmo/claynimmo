@@ -13,6 +13,7 @@
 
 - https://github.com/claynimmo/Custom-UI-Package-for-Unity-Engine
 - https://github.com/claynimmo/3D-Platformer-Package-for-Unity
+- https://github.com/claynimmo/Unity-Editor-Tools-Package
 - https://github.com/claynimmo/GreenBird-Simulator-Source-Code
 - https://github.com/claynimmo/Source-Code-for-Atomic
 - https://github.com/claynimmo/AI-prompt-mindmapping-tool
