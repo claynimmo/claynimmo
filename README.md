@@ -21,6 +21,7 @@
 - https://github.com/claynimmo/CAB302-Assessment
 - https://github.com/claynimmo/Basic-Image-Processing-for-Game-Assets
 - https://github.com/claynimmo/Analogue-to-Digital-Voice-Recorder
+- https://github.com/claynimmo/Conway-s-Game-of-Life-Simulation
 
 ## Software Projects
 
@@ -31,6 +32,11 @@
 **Network Shared USB:** https://github.com/claynimmo/Network-Shared-USB-with-PHP A web page constructed using PHP designed to be hosted from a raspberry pi device, to expose its connected USB drive across the local network.
 
 **Basic Image Processing:** https://github.com/claynimmo/Basic-Image-Processing-for-Game-Assets A windows only console app that I use to process png screenshots into usable game textures. It includes filters like saturation, exposure, blur, colour inversion, normalization, and height map generation.
+
+## Smaller Projects
+These projects represent small >1000 lines of code projects to demonstrate my ability to program using a given language.
+
+**Conway's Game of Life:** https://github.com/claynimmo/Conway-s-Game-of-Life-Simulation Created a command line program using C to perform the game of life simulation, demonstrating capability with C and an intro to simulations.
 
 ## Engineering Projects
 
